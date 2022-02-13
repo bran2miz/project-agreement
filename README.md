@@ -24,7 +24,7 @@
 
 - Edris - collaborate with team, communicate.
 
-- Ian -  Assist in testing proof of concept and trouble shooting environments. 
+- Ian -  Assist in testing proof of concept and trouble shooting environments.
 
 ### In which professional competencies do you each want to develop greater strength?
 
@@ -48,62 +48,58 @@ NOTE: Undoing, Redoing, Replacing, or otherwise steamrolling the project as an i
 
 Your team should agree on a process for handing disagreements, should they arise. It is better to have a plan in place ahead of time so you can all refer back to it when necessary.
 
-Describe at least:
-
 ### What will be your group’s process to resolve conflict, when it arises?
 
-Talk to each other directly and try to resolve the conflict. If we face difficulty in resolving then discuss it with TA or instructor.
+- Talk to each other directly and try to resolve the conflict. If we face difficulty in resolving then discuss it with TA or instructor.
 
 ### What will your team do if one person is taking over the project and not letting the other members contribute?
 
-Providing feedback is a must. I would say if anyone feels like one person's voice is coming out more than anyone else, to allow for fearless feedback. A lot of companies do a thing called a daily stand up. This is a space for general conversation of what needs to get done and allows people to have a platform to voice concerns.
+- Providing feedback is a must. I would say if anyone feels like one person's voice is coming out more than anyone else, to allow for fearless feedback. A lot of companies do a thing called a daily stand up. This is a space for general conversation of what needs to get done and allows people to have a platform to voice concerns.
 
 ### How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
 
-We think the importance of stand-ups at the start of each meeting will be a vital part of getting every member of our group to at least be somewhat on the same page. Comprehension of concepts vary amongst us all, so we will ask each other how we are doing in terms of our progress in the project.
+- We think the importance of stand-ups at the start of each meeting will be a vital part of getting every member of our group to at least be somewhat on the same page. Comprehension of concepts vary amongst us all, so we will ask each other how we are doing in terms of our progress in the project.
 
 ### How will you raise concerns to members who are not adequately contributing?
 
-Discuss the matter with the person and also switch driver navigator roles regularly.
+- Discuss the matter with the person and also switch driver navigator roles regularly.
 
 ### How and when will you escalate the conflict if your resolution attempts are unsuccessful?
 
-Beat them up.... jk. We will come up with a comprehensive plan to bring it up to the TA/ Instructor to have a chat with this member to help with team dynamic.
+- Beat them up.... jk. We will come up with a comprehensive plan to bring it up to the TA/ Instructor to have a chat with this member to help with team dynamic.
 
 ## Communication Plan
 
 Before beginning to tackle the project, determine how your group will communicate with each other. This is not an individual effort. Make sure everyone feels comfortable with the identified methods of speaking up.
 
-Describe at least:
-
 ### What hours will you be available to communicate?
 
-Mon - Thu 6:30pm to 9:30pm, Sat 9:00am - 6:00pm and as much as needed if we all time.
+- Mon - Thu 6:30pm to 9:30pm, Sat 9:00am - 6:00pm and as much as needed if we all time.
 Mainly during class. We understand that because of our work/life schedule, hours of communication might vary.
 
 ### What platforms will you use to communicate (ie. Slack, phone …)?
 
-Slack will be the most efficient platform we will be using in terms of communicating with each other.
+- Slack will be the most efficient platform we will be using in terms of communicating with each other.
 
 ### How often will you take breaks?
 
-Every few hours or whenever needed.
+- Every few hours or whenever needed.
 
 ### What is your plan if you start to fall behind?
 
-Through stand-ups, if one of us falls behind, or feels like we are not understanding the concepts, we will express how we feel during that time. Other team members will also help out with that person's comprehension of difficult and challenging problems.
+- Through stand-ups, if one of us falls behind, or feels like we are not understanding the concepts, we will express how we feel during that time. Other team members will also help out with that person's comprehension of difficult and challenging problems.
 
 ### How will you communicate after hours and on the weekend?
 
-Slack
+- Slack
 
 ### What is your strategy for ensuring everyone’s voice is heard?
 
-We will have morning stand-ups so that we plan our day and listen to any suggestions/concerns. We will create as safe as possible environment for everyone to feel comfortable and be themselves.
+- We will have morning stand-ups so that we plan our day and listen to any suggestions/concerns. We will create as safe as possible environment for everyone to feel comfortable and be themselves.
 
 ### How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 
-We will have morning stand-ups so that we plan our day and listen to any suggestions/concerns. We will create as safe as possible environment for everyone to feel comfortable and be themselves.
+- We will have morning stand-ups so that we plan our day and listen to any suggestions/concerns. We will create as safe as possible environment for everyone to feel comfortable and be themselves.
 
 ## Work Plan
 
@@ -111,15 +107,14 @@ We will have morning stand-ups so that we plan our day and listen to any suggest
 
 NOTE: While researching and experimentation is always encouraged, writing and/or committing code to the project on your own during non-working hours or over the weekend is never acceptable. This puts the entire project at risk. Be explicit in calling out your work hours and the distribution of tasks.
 
-Describe at least:
 
 ### How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
 
-We could use something similar to a trello board, where cards are made of what needs to get done for the day. For example, someone may need to find a deployment application that would need to be done by certain due date.
+- We could use something similar to a trello board, where cards are made of what needs to get done for the day. For example, someone may need to find a deployment application that would need to be done by certain due date.
 
 ### What project management tool will be used?
 
-github project
+- github project
 
 ## Presentation Deck
 
@@ -134,13 +129,14 @@ Describe at least:
 
 ### What components of your project will live on GitHub?
 
-All the feature branches will be live on GitHub.
+All the feature branches will live on GitHub.
 
 ### How will you share the repository with your teammates?
 
-We each will have a featured branch in our group project repository. This will be shared with our entire group to see the progress we have each made.
+- We each will have a featured branch in our group project repository. This will be shared with our entire group to see the progress we have each made.
 
 ### What is your Git flow?
+
 1. Pick a task
 2. developing on the local feature branch. i.e. <name_initial>-<feature_name>
 3. When feature developing is done, make PR to remote feature branch
